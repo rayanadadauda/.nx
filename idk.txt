@@ -1,4 +1,4 @@
- namespace Raycast {
-      inline constexpr uintptr_t RaycastBoundDesc = 0x863DB10;
+  namespace Raycast {
+      inline constexpr uintptr_t RaycastBoundDesc = 0x870B040;
       inline constexpr uintptr_t RaycastBoundFn   = 0xB0;
   }
